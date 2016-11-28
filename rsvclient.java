@@ -1,7 +1,7 @@
 /**
  * @title 		rsvclient
- * @author 		Joseph Mitchell (100806582)
- * @contact 	the.joe.mit@gmail.com
+ * @author 		Joseph Mitchell
+ * @contact 		the(dot)joe(dot)mit[at]gmail[dot]com
  * @date		11/8/2016 @ 2:38 AM
  * @license		CREATIVE COMMONS Attribution-NonCommercial-ShareAlike 4.0 International
  * @description A remote method invocation client connected to
